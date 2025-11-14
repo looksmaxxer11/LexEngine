@@ -1,0 +1,18 @@
+{
+  "ref": null,
+  "date": null,
+  "language": "en",
+  "announcement": "",
+  "source_pdf": "C:\\Users\\looksmaxxer11\\AppData\\Local\\Temp\\uploaded_kppp9d56.pdf",
+  "embedding": null,
+  "metadata": {
+    "processed_at": "2025-11-14T06:54:15Z",
+    "pages": 3,
+    "raw_text": "",
+    "clean_text": "",
+    "segments_raw": [],
+    "segments_clean": [],
+    "segments_corrected": []
+  },
+  "schema_version": "v1"
+}

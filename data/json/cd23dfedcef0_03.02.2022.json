@@ -1,0 +1,13 @@
+{
+  "ref": null,
+  "date": null,
+  "language": "uz-latin",
+  "announcement": "[ERROR: Could not read page l] ---PAGE BREAK--- [ERROR: Could not read page 2] ---PAGE BREAK--- [ERROR: Could not read page 3]",
+  "source_pdf": "C:\\Users\\looksmaxxer11\\Desktop\\CODING\\AI for text processing\\data\\raw_pdfs\\cd23dfedcef0_03.02.2022.pdf",
+  "embedding": null,
+  "metadata": {
+    "processed_at": "2025-11-13T14:28:59Z",
+    "pages": 3
+  },
+  "schema_version": "v1"
+}

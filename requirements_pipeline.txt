@@ -1,0 +1,31 @@
+# Core OCR Pipeline Dependencies - PaddleOCR Only
+
+# Core
+numpy>=1.24.0
+Pillow>=10.0.0
+opencv-python>=4.8.0
+pymupdf>=1.23.0
+pdf2image>=1.16.0  # (requires Poppler on Windows)
+
+# AI OCR Models
+transformers>=4.35.0
+torch>=2.0.0
+torchvision>=0.15.0
+sentencepiece>=0.1.99
+accelerate>=0.25.0
+
+# OCR Engine (Tesseract via pytesseract; requires system Tesseract binary)
+pytesseract>=0.3.10
+
+# NLP & Embeddings
+sentence-transformers>=2.2.0
+
+# Web Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.23.0
+python-multipart>=0.0.6
+
+# Utilities
+pyyaml>=6.0
+requests>=2.31.0
+tqdm>=4.65.0

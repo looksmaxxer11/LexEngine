@@ -1,0 +1,102 @@
+# Local environment (do not commit secrets)
+.env.local
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+temp/
+*.tmp
+*.bak
+
+# Environment variables
+.env
+.env.local
+
+# Model files (large)
+models/*.bin
+models/*.pt
+models/*.pth
+models/*.safetensors
+
+# Training data (can be large)
+training_data/images/*.png
+training_data/images/*.jpg
+training_data/uncertain/*.png
+training_data/uncertain/*.jpg
+
+# Output files (optional, comment if you want to track)
+output/*.md
+output/*.json
+
+# Test files
+test_*.pdf
+test_output/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+
+# Compiled translations
+*.mo
+*.pot
+
+# Database
+*.db
+*.sqlite3
+
+# API keys (security)
+*_api_key.txt
+secrets.json
+credentials.json

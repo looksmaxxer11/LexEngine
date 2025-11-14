@@ -1,0 +1,13 @@
+{
+  "ref": null,
+  "date": null,
+  "language": "uz-latin",
+  "announcement": "[DRY-RUN] OCR text placeholder for pipeline wiring.",
+  "source_pdf": "C:\\Users\\looksmaxxer11\\Desktop\\CODING\\AI for text processing\\data\\raw_pdfs\\f1d46934730e_03.02.2022.pdf",
+  "embedding": null,
+  "metadata": {
+    "processed_at": "2025-11-13T13:46:31Z",
+    "pages": 1
+  },
+  "schema_version": "v1"
+}
